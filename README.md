@@ -21,4 +21,5 @@ Link : [AReM](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+syste
 ![image](https://user-images.githubusercontent.com/43367868/114256978-c66df980-99f7-11eb-87f1-069ffe910868.png)
 
 ## final_report
-B611155이유진 final project 보고서
+B611155이유진 final project 보고서  
+https://github.com/Yiujin/AI_lecture_final_project/blob/main/B611155%2B%EC%9D%B4%EC%9C%A0%EC%A7%84%2Bfinal%2Bproject%2B%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
