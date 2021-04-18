@@ -14,7 +14,7 @@ Link : [AReM](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+syste
 ![image](https://user-images.githubusercontent.com/43367868/114256902-73944200-99f7-11eb-9627-94e855b4586e.png)
 
 ## result  
-- 76.4%의 정확도를 가진 분류 모델  
+- 76.5%의 정확도를 가진 분류 모델  
 ![image](https://user-images.githubusercontent.com/43367868/114256942-a50d0d80-99f7-11eb-9f9e-e146b12a186f.png)  
 
 - 결과 분석  
